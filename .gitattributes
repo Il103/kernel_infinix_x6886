@@ -1,0 +1,2 @@
+Image.gz filter=lfs diff=lfs merge=lfs -text
+dtbs/dtbo.img filter=lfs diff=lfs merge=lfs -text
